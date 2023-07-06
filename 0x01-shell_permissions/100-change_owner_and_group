@@ -1,3 +1,2 @@
 #!/bin/bash
-chown vincent staff *
-chgrp vincent staff *
+chown vincent:staff *
